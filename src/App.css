@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital&display=swap');
 h1 {
   text-align: center;
-  color: #cd6d93 ;
+  color: #0095fa ;
   font-weight: 500;
   padding:.5rem;
-  background: #fff;
+  background: #f0faff;
   width: 40%;
   margin:2rem auto;
   border-radius:10px;
@@ -29,7 +29,7 @@ input {
   height: 20rem;
   width: 20rem;
   padding: 2rem;
-  background-color: #ABCDEF;
+  background-color: #f0faff;
   margin: 4rem 2rem;
-  color: white;
+  color: black;
 }
