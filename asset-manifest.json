@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Box-Shadow-Generatorr/static/css/main.6a215d01.chunk.css",
-    "main.js": "/Box-Shadow-Generatorr/static/js/main.c52fecd7.chunk.js",
-    "main.js.map": "/Box-Shadow-Generatorr/static/js/main.c52fecd7.chunk.js.map",
+    "main.js": "/Box-Shadow-Generatorr/static/js/main.9f699deb.chunk.js",
+    "main.js.map": "/Box-Shadow-Generatorr/static/js/main.9f699deb.chunk.js.map",
     "runtime-main.js": "/Box-Shadow-Generatorr/static/js/runtime-main.2d6255fe.js",
     "runtime-main.js.map": "/Box-Shadow-Generatorr/static/js/runtime-main.2d6255fe.js.map",
     "static/js/2.4560faea.chunk.js": "/Box-Shadow-Generatorr/static/js/2.4560faea.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2d6255fe.js",
     "static/js/2.4560faea.chunk.js",
     "static/css/main.6a215d01.chunk.css",
-    "static/js/main.c52fecd7.chunk.js"
+    "static/js/main.9f699deb.chunk.js"
   ]
 }
