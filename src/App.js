@@ -8,7 +8,7 @@ function App() {
   const [color,setColor] = useState("#7890ac");
   return (
     <div className="App">
-    {console.log("avishka here")}
+    {/* {console.log("avishka here")} */}
       <h1>BOX SHADOW GENERATOR</h1>
       <div className="main">
         <div className="main__range">
